@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+Y
+)contracts/authentication-certificate.clar,e/7/e7fd6824d9209343836a9810c4aaec7c0137b35e
+X
+(tests/authentication-certificate.test.ts,c/5/c596ab58ed10d238add0c81afcbadc0e8ac52f7d
+O
+tests/item-registration.test.ts,c/4/c4fb1bb0e7ef0f0de665a99f389d43c99341a25e
+P
+ contracts/item-registration.clar,8/0/80a083cd98ff576959a6cf8723657afdaeae6aac
+Q
+!tests/player-verification.test.ts,c/0/c0aebfbf02c80f1444ec73e66ff2ecf8031a490e
+R
+"contracts/player-verification.clar,9/1/910d45f1aa7e73bce7c496a175db3d8bfd035333
+H
+tests/provenance.test.ts,2/4/2444bddab9f5bd86a99d63c424c580f0801ef8cb
+I
+contracts/provenance.clar,e/a/ea9bd434153c0b422eb7c5d130a91b1b34e409b4
