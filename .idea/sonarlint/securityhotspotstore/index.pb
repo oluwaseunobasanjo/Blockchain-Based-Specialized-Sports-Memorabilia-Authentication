@@ -13,3 +13,7 @@ Q
 !tests/player-verification.test.ts,c/0/c0aebfbf02c80f1444ec73e66ff2ecf8031a490e
 R
 "contracts/player-verification.clar,9/1/910d45f1aa7e73bce7c496a175db3d8bfd035333
+H
+tests/provenance.test.ts,2/4/2444bddab9f5bd86a99d63c424c580f0801ef8cb
+I
+contracts/provenance.clar,e/a/ea9bd434153c0b422eb7c5d130a91b1b34e409b4
