@@ -9,3 +9,7 @@ O
 tests/item-registration.test.ts,c/4/c4fb1bb0e7ef0f0de665a99f389d43c99341a25e
 P
  contracts/item-registration.clar,8/0/80a083cd98ff576959a6cf8723657afdaeae6aac
+Q
+!tests/player-verification.test.ts,c/0/c0aebfbf02c80f1444ec73e66ff2ecf8031a490e
+R
+"contracts/player-verification.clar,9/1/910d45f1aa7e73bce7c496a175db3d8bfd035333
