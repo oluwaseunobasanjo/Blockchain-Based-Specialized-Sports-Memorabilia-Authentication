@@ -5,3 +5,7 @@ Y
 )contracts/authentication-certificate.clar,e/7/e7fd6824d9209343836a9810c4aaec7c0137b35e
 X
 (tests/authentication-certificate.test.ts,c/5/c596ab58ed10d238add0c81afcbadc0e8ac52f7d
+O
+tests/item-registration.test.ts,c/4/c4fb1bb0e7ef0f0de665a99f389d43c99341a25e
+P
+ contracts/item-registration.clar,8/0/80a083cd98ff576959a6cf8723657afdaeae6aac
